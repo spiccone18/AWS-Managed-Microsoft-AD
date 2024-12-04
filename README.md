@@ -6,9 +6,7 @@ This guide explains how to set up an AWS lab environment where EC2 Windows insta
 ---
 
 ## Architecture Diagram
-Below is the architecture of the lab setup:
-
-![AWS Lab Architecture](docs/architecture-diagram.png)
+See Diagram Setup
 
 ---
 
